@@ -1,0 +1,32 @@
+C:\Users\dta4k\Desktop\C# and TPL\Image_Resizer\Image_Resizer\bin\Debug\Image_Resizer.exe.config
+C:\Users\dta4k\Desktop\C# and TPL\Image_Resizer\Image_Resizer\bin\Debug\Image_Resizer.exe
+C:\Users\dta4k\Desktop\C# and TPL\Image_Resizer\Image_Resizer\bin\Debug\Image_Resizer.pdb
+C:\Users\dta4k\Desktop\C# and TPL\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.csproj.AssemblyReference.cache
+C:\Users\dta4k\Desktop\C# and TPL\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\dta4k\Desktop\C# and TPL\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.Form1.resources
+C:\Users\dta4k\Desktop\C# and TPL\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.Properties.Resources.resources
+C:\Users\dta4k\Desktop\C# and TPL\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.csproj.GenerateResource.cache
+C:\Users\dta4k\Desktop\C# and TPL\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.csproj.CoreCompileInputs.cache
+C:\Users\dta4k\Desktop\C# and TPL\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.exe
+C:\Users\dta4k\Desktop\C# and TPL\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.pdb
+C:\Users\Стилиян\Downloads\Image_Resizer\Image_Resizer\Image_Resizer\bin\Debug\Image_Resizer.exe.config
+C:\Users\Стилиян\Downloads\Image_Resizer\Image_Resizer\Image_Resizer\bin\Debug\Image_Resizer.exe
+C:\Users\Стилиян\Downloads\Image_Resizer\Image_Resizer\Image_Resizer\bin\Debug\Image_Resizer.pdb
+C:\Users\Стилиян\Downloads\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.csproj.AssemblyReference.cache
+C:\Users\Стилиян\Downloads\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.Form1.resources
+C:\Users\Стилиян\Downloads\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.Properties.Resources.resources
+C:\Users\Стилиян\Downloads\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.csproj.GenerateResource.cache
+C:\Users\Стилиян\Downloads\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.csproj.CoreCompileInputs.cache
+C:\Users\Стилиян\Downloads\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.exe
+C:\Users\Стилиян\Downloads\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.pdb
+C:\Users\dta4k\Desktop\Image_Resizer\Image_Resizer\Image_Resizer\bin\Debug\Image_Resizer.exe.config
+C:\Users\dta4k\Desktop\Image_Resizer\Image_Resizer\Image_Resizer\bin\Debug\Image_Resizer.exe
+C:\Users\dta4k\Desktop\Image_Resizer\Image_Resizer\Image_Resizer\bin\Debug\Image_Resizer.pdb
+C:\Users\dta4k\Desktop\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.csproj.AssemblyReference.cache
+C:\Users\dta4k\Desktop\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\dta4k\Desktop\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.Form1.resources
+C:\Users\dta4k\Desktop\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.Properties.Resources.resources
+C:\Users\dta4k\Desktop\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.csproj.GenerateResource.cache
+C:\Users\dta4k\Desktop\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.csproj.CoreCompileInputs.cache
+C:\Users\dta4k\Desktop\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.exe
+C:\Users\dta4k\Desktop\Image_Resizer\Image_Resizer\Image_Resizer\obj\Debug\Image_Resizer.pdb
